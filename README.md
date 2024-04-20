@@ -1,6 +1,6 @@
 # ij.start.canon
 
-#  [Get Started Here](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+#  [Get Started Here](https://can.printredir.com)
 
 
 
